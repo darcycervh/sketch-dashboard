@@ -1,6 +1,19 @@
 # Proyecto 3: Crear un sketch para la herramienta del dashboard de Laboratoria.
 
-1. La página de registro al dashboard de Laboratoria:
+### Descripción del Proyecto:
+
+El dashboard es una herramienta utilizada por profesores, training managers, directores y gerentes de Laboratoria para ver rápidamente qué está pasando en el salón de clases de Laboratoria. En el dashboard, los usuarios mencionados pueden ver rápidamente estadísticas y datos en tiempo real como:
+
+* número de alumnas inscritas.
+* número de alumnas que desertaron.
+* número y % de alumnas que pasan el criterio mínimo de  evaluación.
+* Promedio de notas por sprint.
+* Promedio de notas HSE.
+* Promedio de notas técnicas.
+
+### Descripción de la realización del reto:
+
+* La página de registro al dashboard de Laboratoria:
 
 ![imagen1](assets/images/imagen1.png)
 
