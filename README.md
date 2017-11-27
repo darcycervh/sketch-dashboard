@@ -1,6 +1,6 @@
-# Proyecto 3: Crear un sketch para la herramienta del dashboard de Laboratoria.
+# Proyecto 3: Crear un sketch para la herramienta del dashboard de Laboratoria
 
-### Descripción del Proyecto:
+## Descripción del Proyecto
 
 El dashboard es una herramienta utilizada por profesores, training managers, directores y gerentes de Laboratoria para ver rápidamente qué está pasando en el salón de clases de Laboratoria. En el dashboard, los usuarios mencionados pueden ver rápidamente estadísticas y datos en tiempo real como:
 
@@ -11,7 +11,7 @@ El dashboard es una herramienta utilizada por profesores, training managers, dir
 * Promedio de notas HSE.
 * Promedio de notas técnicas.
 
-### Descripción de la realización del reto:
+### Descripción de la realización del reto
 
 * La página de registro al dashboard de Laboratoria:
 
@@ -41,6 +41,6 @@ El dashboard es una herramienta utilizada por profesores, training managers, dir
 
 ![imagen4](assets/images/imagen4-2.png)
 
-* Si desea modificar algo de tu perfil en el dashboard, puedes acceder a <code>Ajustes</code>.
+* Si desea modificar algo de tu perfil en el dashboard, puedes acceder a **Ajustes**.
 
 ![imagen4](assets/images/imagen4-3.png)
